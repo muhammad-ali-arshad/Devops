@@ -5,6 +5,7 @@ public class Home {
         System.out.println("I am learning Java.");
         System.out.println("Java is easy!");
         System.out.println("Trigger is Working!");
+        System.out.println("Still Working!");
     }
 }
 
