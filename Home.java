@@ -6,6 +6,7 @@ public class Home {
         System.out.println("Java is easy!");
         System.out.println("Trigger is Working!");
         System.out.println("Still Working!");
+        System.out.println("Still Working! by 12am");
     }
 }
 
